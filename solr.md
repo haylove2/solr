@@ -1,6 +1,5 @@
 #	last update 23/2/25
 
-[TOC]
 
 
 
@@ -53,7 +52,7 @@
 
   ​    **`使用localhost:8983就可以访问solr后台管理系统`**
 
-  ### 部署solr到tomcat；
+  ### 三、部署solr到tomcat；
 
   ​	1.解压一个新的tomcat
 
@@ -134,7 +133,7 @@
 
   
 
-### 三、Linux下安装Solr
+### 四、Linux下安装Solr
 
 ​		将solr安装到linux服务器中,可以使用虚拟机来模拟一个Linux服务器安装solr；
 
@@ -317,7 +316,7 @@ more catalina.out
 
 http://192.168.200.129:8080/solr/index.html
 
-### 四、SolrCore
+### 五、SolrCore
 
 ​		solr部署启动成功之后，需要创建core才可以使用的，才可以使用Solr；类似于我们安装完毕MySQL以后，需要创建数据库一样；
 
@@ -329,7 +328,7 @@ http://192.168.200.129:8080/solr/index.html
 
 ​    所以SolrCore可以理解成MySQL中的数据库；
 
-### 五、SolrCore维护（windows）
+### 六、SolrCore维护（windows）
 
 1.SolrCore目录结构
 
