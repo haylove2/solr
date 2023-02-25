@@ -1,3 +1,4 @@
+#	Last update 23/2/25
 ### 	前提运行环境
 
 ​		solr需要运行在一个Servlet容器中，看文档Solr7.x要求jdk最少使用1.8以上，Solr默认提供`Jetty`(java写的Servlet容器)，使用Tocmat作为Servlet容器：
